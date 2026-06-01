@@ -1,2 +1,4 @@
 O valor predefinido para capas sem imagem inserida é "capa_default".
 Usar isso no back-end para auto-atribuir a capa padrão [a ser feita];
+
+Formato webp ou avif.
