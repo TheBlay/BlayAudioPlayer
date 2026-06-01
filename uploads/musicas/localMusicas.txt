@@ -1,0 +1,2 @@
+inicialmente aceitar apenas .mp3;
+examinar a possibilidade de outros formatos de música.
